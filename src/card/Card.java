@@ -6,7 +6,7 @@
 package card;
 
 /**
- *
+ *22nd January
  * @author mehta
  */
 public class Card {
