@@ -16,6 +16,5 @@ public class CardDealer {
         diaSix.setSuit("Hearts");
         diaSix.setValue(11);
         System.out.println("Bye");
-        System.out.println("Take care");
     }
 }
